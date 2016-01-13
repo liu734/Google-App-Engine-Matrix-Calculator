@@ -1,0 +1,2 @@
+serviceClass: com.example.matrix_calculator.client.GreetingService
+path: 064D09E46BA80E56DA631D59E95F3B79.gwt.rpc
